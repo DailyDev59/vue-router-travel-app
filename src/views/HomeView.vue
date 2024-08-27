@@ -1,9 +1,9 @@
 <template>
-  <h1>Home</h1>
+  <h1>Home (changes for commit)</h1>
 </template>
 
 <script>
-export default {};
+export default {}
 </script>
 
 <style scoped></style>
